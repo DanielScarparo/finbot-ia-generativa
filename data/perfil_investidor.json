@@ -1,0 +1,13 @@
+{
+  "id_cliente": "C-10928",
+  "nome": "João Silva",
+  "idade": 28,
+  "perfil_risco": "Conservador",
+  "renda_mensal_estimada": 4500.00,
+  "objetivos_financeiros": [
+    "Criar reserva de emergência de R$ 10.000",
+    "Reduzir gastos com delivery em 30%",
+    "Fazer uma viagem internacional no próximo ano"
+  ],
+  "preferencias_comunicacao": "Direto, educativo e encorajador"
+}

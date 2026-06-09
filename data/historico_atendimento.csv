@@ -1,0 +1,4 @@
+id_atendimento,data,canal,assunto,resumo_resolucao
+A001,2023-09-15,Chatbot,Duvida Fatura,Cliente questionou cobrança duplicada no Ifood. Estorno solicitado e aprovado.
+A002,2023-09-28,App,Dicas Economia,Cliente acessou o modulo de dicas de como economizar no supermercado.
+A003,2023-10-05,Chatbot,Limite Cartao,Cliente solicitou aumento de limite. Negado devido ao foco atual em criar reserva de emergencia.

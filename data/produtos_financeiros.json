@@ -1,0 +1,23 @@
+[
+  {
+    "id_produto": "P01",
+    "nome": "CDB Liquidez Diária",
+    "tipo": "Investimento",
+    "indicacao": "Ideal para reserva de emergência. O dinheiro rende diariamente e pode ser sacado a qualquer momento.",
+    "risco": "Baixo"
+  },
+  {
+    "id_produto": "P02",
+    "nome": "Cartão de Crédito Controle",
+    "tipo": "Credito",
+    "indicacao": "Cartão com limite ajustável pelo app para evitar compras por impulso e ajudar no controle de gastos.",
+    "beneficio": "Cashback de 1% em supermercados."
+  },
+  {
+    "id_produto": "P03",
+    "nome": "Tesouro IPCA+",
+    "tipo": "Investimento",
+    "indicacao": "Ideal para objetivos de longo prazo, protegendo o dinheiro da inflação.",
+    "risco": "Baixo a Médio"
+  }
+]

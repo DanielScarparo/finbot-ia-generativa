@@ -1,0 +1,11 @@
+id_transacao,data,tipo,categoria,valor,descricao
+1,2023-10-01,receita,salario,4500.00,Salario Mensal
+2,2023-10-02,despesa,moradia,1200.00,Aluguel
+3,2023-10-03,despesa,alimentacao,150.00,Supermercado
+4,2023-10-05,despesa,transporte,80.00,Uber
+5,2023-10-08,despesa,lazer,120.00,Cinema e Lanches
+6,2023-10-10,despesa,contas,180.00,Conta de Luz
+7,2023-10-12,despesa,alimentacao,65.00,Ifood - Jantar
+8,2023-10-15,despesa,saude,90.00,Farmacia
+9,2023-10-18,despesa,transporte,50.00,Gasolina
+10,2023-10-22,despesa,alimentacao,200.00,Supermercado
